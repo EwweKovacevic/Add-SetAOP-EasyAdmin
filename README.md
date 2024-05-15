@@ -1,6 +1,9 @@
 # Add-SetAOP-EasyAmin
 Easily add a "Set AOP" button in the "Server Management" tab in EasyAdmin.
 
+# Fatal Warning
+Make sure you do NOT overwrite your existing EasyAdmin folder, use a software that doesn't overwrite folders and only files.
+
 ## Warning
 Make sure you already have the latest version of EasyAdmin installed(this script works on the latest version today which is 7.2), this script is barely tested so there might be bugs, if there are bugs just join my [Discord server](https://discord.gg/eJfgfFtZ2r) and open a ticket.
 
