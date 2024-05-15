@@ -1,4 +1,4 @@
-# Add-SetAOP-EasyAmin
+# Add-SetAOP-EasyAdmin
 Easily add a "Set AOP" button in the "Server Management" tab in EasyAdmin. Also works with [Text formatting](https://docs.fivem.net/docs/game-references/text-formatting/)
 
 # Fatal Warning
