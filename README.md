@@ -1,2 +1,16 @@
 # Add-SetAOP-EasyAmin
 Easily add a "Set AOP" button in the "Server Management" tab in EasyAdmin.
+
+## Warning
+Make sure you already have the latest version of EasyAdmin installed(this script works on the latest version today which is 7.2), this script is barely tested so there might be bugs, if there are bugs just join my [Discord server](https://discord.gg/eJfgfFtZ2r) and open a ticket.
+
+# Install Instructions
+>1. Extract the .zip
+>
+>2. Put the "EasyAdmin" folder into your resources/[system] folder(or a different one of your choosing).
+>
+>3. Add ensure/start(or whatever you use to start resources) easyadmin to your server.cfg if it's not already there (it should be there, otherwise your EasyAdmin won't be started when the server starts/restarts.)
+>
+>4. Restart your server
+>
+>5. That's it, it's installed
