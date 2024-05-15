@@ -1,5 +1,5 @@
 # Add-SetAOP-EasyAmin
-Easily add a "Set AOP" button in the "Server Management" tab in EasyAdmin.
+Easily add a "Set AOP" button in the "Server Management" tab in EasyAdmin. Also works with [Text formatting](https://docs.fivem.net/docs/game-references/text-formatting/)
 
 # Fatal Warning
 Make sure you do NOT overwrite your existing EasyAdmin folder, use a software that doesn't overwrite folders and only files.
