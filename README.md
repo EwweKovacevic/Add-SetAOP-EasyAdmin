@@ -12,7 +12,7 @@ Make sure you already have the latest version of EasyAdmin installed(this edit w
 >
 >2. Put the "EasyAdmin" folder into your resources/[system] folder(or a different one of your choosing/the one you have your EasyAdmin installed on).
 >
->3. Add ensure/start(or whatever you use to start resources) easyadmin to your server.cfg if it's not already there (it should be there, since this edit requires you to have EasyAdmin installed.)
+>3. Add ensure/start(or whatever you use to start resources) EasyAdmin to your server.cfg if it's not already there (it should be there, since this edit requires you to have EasyAdmin installed.)
 >
 >4. Restart your server
 >
